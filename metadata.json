@@ -1,0 +1,6 @@
+{
+  "name": "Alem Group - Тіл Орталығы",
+  "description": "Алматыдағы жетекші ағылшын тілі орталығы. Интерактивті оқыту, НИШ/БИЛ-ге дайындық.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
